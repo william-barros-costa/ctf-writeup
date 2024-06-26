@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Portfolio',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
             label: 'Linkedin',
             href: 'https://www.linkedin.com/in/william-barros-costa/',
@@ -101,10 +101,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
             ],
           },
           {
