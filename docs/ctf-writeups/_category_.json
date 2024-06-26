@@ -1,8 +1,0 @@
-{
-  "label": "CTF-Writeups",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "The collection of all the CTFs I solved"
-  }
-}
