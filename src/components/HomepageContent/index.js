@@ -5,7 +5,7 @@ export default function HomepageContent () {
     return (
         <section>
             <div className={styles.main}>
-                Image
+                Personal Image
                 <div className={styles.features}>
                     <div id={styles.Name}>
                         <Heading as='h1' className={styles.heading}>William Costa</Heading>
