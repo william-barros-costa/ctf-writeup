@@ -1,7 +1,13 @@
 endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
+  name: William Costa
+  title: Software Developer
+  url: https://github.com/william-barros-costa
+  image_url: https://github.com/endiliey.png
+
+william:
+  name: William Costa
+  title: Software Developer
+  url: https://github.com/william-barros-costa
   image_url: https://github.com/endiliey.png
 
 yangshun:
