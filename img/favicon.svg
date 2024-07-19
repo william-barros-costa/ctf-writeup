@@ -1,0 +1,20 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_19" height="23.1" width="27.1" y="-3.35" x="-3.95" stroke-width="0" stroke="#000000" fill="#242526"/>
+  <g stroke="null" id="svg_3">
+   <rect stroke="#242526" rx="75" id="svg_1" height="39.97457" width="41.33371" y="8" x="121" fill="#242526"/>
+   <text stroke="#000000" transform="matrix(1.54099 0 0 1.54099 -308.614 -314.818)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_2" y="230.96478" x="280.40419" fill="#ffffff">W</text>
+  </g>
+  <g stroke="null" id="svg_12">
+   <rect stroke="#242526" rx="75" id="svg_10" height="39.97457" width="41.33371" y="8" x="121" fill="#242526"/>
+   <text stroke="#000000" transform="matrix(1.54099 0 0 1.54099 -308.614 -314.818)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_11" y="230.96478" x="280.40419" fill="#ffffff">W</text>
+  </g>
+  <g stroke="null" id="svg_15">
+   <rect stroke="#242526" rx="75" id="svg_13" height="39.97457" width="41.33371" y="8" x="121" fill="#242526"/>
+   <text stroke="#000000" transform="matrix(1.54099 0 0 1.54099 -308.614 -314.818)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_14" y="230.96478" x="280.40419" fill="#ffffff">W</text>
+  </g>
+  <text stroke="#000000" transform="matrix(0.61257 0 0 0.507226 -164.743 -107.527)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_17" y="235.88741" x="270.98476" fill="#ffffff">W</text>
+ </g>
+</svg>
